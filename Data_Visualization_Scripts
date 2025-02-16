@@ -1,0 +1,30 @@
+I've organized the code into a class-based structure that makes it easy to generate all visualizations. Here's what's improved from the original code:
+
+## 1 Better Organization:
+
+All visualizations are methods in a single class
+Consistent styling across all plots
+Centralized file handling
+Creates a dedicated 'visualizations' directory
+
+
+## 2 Enhanced Features:
+
+Added error handling for file operations
+Improved plot styling with seaborn integration
+Consistent figure sizes and formatting
+Better padding and layout management
+Added grid alpha for better readability
+
+
+## 3 Usage Instructions:
+To use this code:
+
+## 4 Save it as covid_visualizer.py
+
+## 5 Ensure your data files are in the same directory:
+Moving AVERAGE.xlsx
+Project1.csv
+
+
+## 6 Run the script:
